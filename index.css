@@ -1,6 +1,18 @@
-.botão {
-    background: red;
-    display: flex;
-    border: none;
-   
+button {
+    background-color: #f7f44a;
+    color: #000000;
+    font-weight: bold;
+    cursor: pointer;
   }
+
+
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #dbf0dd; 
+    color: #000000;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+
+  
